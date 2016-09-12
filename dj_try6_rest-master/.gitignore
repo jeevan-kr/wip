@@ -1,0 +1,9 @@
+
+bin/*
+lib/*
+include/*
+local/*
+*.pyc
+*/manage.py
+*/*.sqlite3
+

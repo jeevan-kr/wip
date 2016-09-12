@@ -1,0 +1,17 @@
+{
+    "contents" : "# Logistic Regression\n\n#read input from the tab seperated values\nspamD <- read.table('spamD.tsv', header = T, sep = '\\t')\n\n#split data for training\nspamTrain <- subset(spamD, spamD$rgroup >=10)\n\nspamTest <- subset(spamD, spamD$rgroup <10)\n\nspamVars <- setdiff(colnames(spamD), list('rgroup', 'spam'))\n\nspamFormula <- as.formula(paste('spam==\"spam\"', paste(spamVars, collapse = ' + '), sep = ' ~ '))\n\nspamModel <- glm(spamFormula, family = binomial(link='logit'), data = spamTrain)\nsummary(spamModel)\n\nspamTrain$pred <- predict(spamModel, newdata = spamTrain, type = 'response')\n\nspamTest$pred <- predict(spamModel, newdata = spamTest, type = 'response')\n\n#Confusion Matrix\nprint(with(spamTest, table(y=spam, glmPred=pred>0.5)))\n\n#Double Density Plot\nlibrary (ggplot2)\nggplot(data=spamTest) + geom_density(aes(x=pred, color = spam, linetype=spam))\n\n#AUC\nlibrary(ROCR)\neval <- prediction(spamTest$pred, spamTest$spam)\n\nplot(performance(eval, \"tpr\", \"fpr\") )\nprint(attributes(performance(eval, 'auc'))$y.values[[1]])\n\n#Log likelihood\nsum(ifelse(spamTest$spam == 'spam', log(spamTest$pred), log(1-spamTest$pred) ))\n\n\nsum(ifelse(spamTest$spam == 'spam', log(spamTest$pred), log(1-spamTest$pred)))/dim(spamTest)[[1]]\n\n#null model's LogLikelihood\npNull <- sum(ifelse(spamTest$spam == 'spam',1,0))/dim(spamTest)[[1]]\n\nsum(ifelse(spamTest$spam=='spam',1,0)) *log(pNull) + sum(ifelse(spamTest$spam=='spam',0,1)) *log(1-pNull)\n\n#entropy\nentropy <- function(x) {\n  xpos <- x[x>0]\n  scaled <- xpos/sum(xpos)\n  sum(-scaled*log(scaled,2))\n}\n\nprint(entropy(table(spamTest$spam)))\n\nconditionalEntropy <- function(t) {\n  (sum(t[,1])*entropy(t[,1]) + sum(t[,2])*entropy(t[,2]))/sum(t)\n}\n\nprint(conditionalEntropy(cM))\n",
+    "created" : 1420178534134.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1101243556",
+    "id" : "ADC95C56",
+    "lastKnownWriteTime" : 1420182257,
+    "path" : "F:/Development/GitHub-DataScienceWithR/PracticalDataScienceWR/LogisticRegression-SpamExample.R",
+    "project_path" : "LogisticRegression-SpamExample.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

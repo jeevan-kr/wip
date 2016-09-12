@@ -1,0 +1,4 @@
+config/env/development.js
+node_modules/*
+data/*
+public/lib/*

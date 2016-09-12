@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.stockwatcher.client.StockService
+path: C30347191D636C3018908D19AD9CB55E.gwt.rpc

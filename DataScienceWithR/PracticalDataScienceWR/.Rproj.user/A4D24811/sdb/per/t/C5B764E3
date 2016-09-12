@@ -1,0 +1,17 @@
+{
+    "contents" : "set.seed(32297)\n\nd <- data.frame(x=runif(100), y = runif(100))\n\nclus <- kmeans(d, centers=5)\nd$cluster <- clus$cluster\n\nlibrary('ggplot2'); library('grDevices');\n\nh <- do.call(rbind, \n             lapply(\n               unique(clus$cluster),\n               function(c) {\n                             f <- subset(d, cluster==c); f[chull(f),]\n                           }\n               )\n             )\n# Visualize the clusters\nggplot() + \n  geom_text(data = d, aes(label = cluster, x=x, y=y, color=cluster), size = 3) +\n  geom_polygon(data = h, aes(x = x, y = y, group = cluster, fill = as.factor(cluster)), alpha = 0.4, linetype = 0) +\n  theme(legend.position = \"none\")\n\n# List the number of points\ntable(d$cluster)\n\n# Intra-cluster vs. cross-cluster distances\nlibrary('reshape2')\n\nn <- dim(d)[[1]]\n\npairs <- data.frame (\n  ca = as.vector(outer(1:n,1:n, function(a,b) d[a, 'cluster'])),\n  cb = as.vector(outer(1:n,1:n, function(a,b) d[b, 'cluster'])),\n  dist = as.vector(outer(1:n,1:n, function(a,b) sqrt((d[a,'x']-d[b,'x'])^2 + (d[a,'y']-d[b,'y'])^2)))\n  \n  )\nhead(pairs)\n\ndcast(pairs, ca~cb, value.var='dist', mean)\n",
+    "created" : 1420182772865.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2260571338",
+    "id" : "C5B764E3",
+    "lastKnownWriteTime" : 1420185050,
+    "path" : "F:/Development/GitHub-DataScienceWithR/PracticalDataScienceWR/KMeansClustering-Example.R",
+    "project_path" : "KMeansClustering-Example.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

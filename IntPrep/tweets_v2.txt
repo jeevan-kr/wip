@@ -1,0 +1,256 @@
+~~~~ 1 ~~~~
+RT @NeoNacho: ≡ƒâÅ Generate a usable Playground for any Pod
+
+gem install cocoapods-playgrounds
+pod playgrounds Alamofire
+≡ƒÜÇ
+
+≡ƒÉÖ https://t.co/TQLΓÇª
+#Python and #R Codes for common #MachineLearning Algorithms. https://t.co/V8EaWMLW6J #rstats https://t.co/FZYVH8lEN1
+Pro-tip from @dontmesswithjo: Save your state to have it survive across config changes! https://t.co/TDa9XdGiqI #BuildBetterApps
+ARMO BioSciences aims to improve outcomes for cancer patients who don't respond to current therapies. Welcome to GV. https://t.co/Ba0HvNxMCF
+How do you use Sass in Polymer? ≡ƒñöHmmm... Time for another #AskPolymer! https://t.co/BgOXMwirme https://t.co/xGx7IVCUNg
+Driven by emerging markets, game downloads will hit 102.2 billion in 2020. https://t.co/qi5fysPE7K https://t.co/abRIhZQhn7
+#Big Data can help save your #Love Life - with these Online #Dating #Apps https://t.co/zuBtAl2OAe https://t.co/evQilYnEYS
+RT @hankroark: Solving daily cold start problem @zulily with @h2oai #MachineLearning #Datapalooza Seattle https://t.co/9SJx1Ug3BR
+Introducing the Eclipse Julia plugin - #JuliaDT https://t.co/PujmdwMJG1
+Top 10 Quora #MachineLearning Writers and Their Best #Advice #KDN https://t.co/LnWaI47rIs
+Are you through with all these powerful #R packages listed here? https://t.co/wGwFd72ZXR #rstats #dataanalysis https://t.co/j8oqKiuisf
+. @dickc still up for that debate?  have expanded on my initial quora AMA: https://t.co/QwjDCwc7q6
+Legendary Entertainment - Quantitative Researcher ΓÇô Beijing, China (Beijing, China) https://t.co/ZojFKauf5z
+a more thorough overview on my views on the liberal arts: https://t.co/QwjDCwc7q6
+for those who disagreed with my initial quora AMA on majoring in liberal arts, I have updated it thoroughly here: https://t.co/Sl4W35r8C1
+Check out this Facebook video explaining E-Verify on Demand: https://t.co/21ZiXVfviJ
+Incredibly proud of the generosity of @Microsoft employees, making 2015 our biggest year yet for charitable giving https://t.co/KvovFPSa3F
+An interview with Phil Bernstein on Orleans, the cloud-service tech behind Xbox Halo 4 &amp; 5, #IoT comms https://t.co/Bop42VEu5K via @odbmsorg
+75% of the profit from iPhones goes to Bay Area landlords.
+~~~~ 2 ~~~~
+IΓÇÖve never had less money since I moved to the Bay Area.
+ΓÇ£Deal with reality as a founder as well as an investor group and avoid this complexityΓÇ¥ https://t.co/Q4orMjBUlU
+quickly scribbled together the redux-saga work into redux-react-local https://t.co/FbTPfCLmsN #shippedit
+RT @steveklabnik: Gender bias in open source: Pull request acceptance of women versus men https://t.co/mhm5pmo2eV
+New #Hadoop survey makes #bigdata predictions for 2016 https://t.co/UVHq1ITwDG  via @ZDNet &amp; @kenhess
+Are You Stuck in Analytics 2.0? https://t.co/1RjtkIceTy
+How to get the data from Data frame in #python? https://t.co/VQ9mBu8xOR #helpdatascientist #datascience
+Scalable schema management for Hadoop &amp; Spark applications https://t.co/xXff0iByk7 #StrataHadoop session w/@uber's Kevin Chu &amp; Evan Richards
+Thanks to @CaseyNewton for our first-ever release note collaboration! Good times.  https://t.co/dXhD0SRMjD
+EY launches global #analytics as a service platform https://t.co/F4PDBcBbuo https://t.co/ZUFLYROPHk
+RT @jessitron: These SNAPSHOT dependencies are crazytown. @posco 
+Or Ship-It-Town. (me)
+Didn't ShipItTown get renamed to CrazyTown like 300ΓÇª
+Coming soon from USCIS: A fun fact #PresidentPoll for Presidents Day!
+Inside #DeepLearning: Computer Vision With Convolutional #NeuralNetworks #KDN https://t.co/OhL39zixfY
+RT @greycroftvc: .@appannie Reveals Future of the App Economy: $101 Billion by 2020; China to Surpass U.S. This Year - https://t.co/rJt4OOgΓÇª
+The GOP is on a disastrous path, the question is if it'll take the country with it!
+Nobody Wants Social #Robots That Look Like #Humans Because They Threaten Our Identity https://t.co/sW5QdoGnXQ https://t.co/VGivEIEwFe
+thanks @sarahcuda -- always respect your right to disagree &amp; enjoy the conversation / learning regardless :) https://t.co/9UQwtZv4JC
+RT @anildash: Now, "anti-colonial", post-D'souza, mostly just means "I don't like uppity brown people trying to have agency." Dressed up asΓÇª
+~~~~ 3 ~~~~
+A Linearly-Convergent Stochastic L-BFGS Algorithm - https://t.co/V9dGZJ9qwy
+ΓÇ£The Case For HillaryΓÇ¥ by @ZacharyLeven https://t.co/kOl1Hbsmgu
+What will you drop to allow you to leap forward? Very inspirational @TEDTalks https://t.co/lSCecueZR4 via @antoniogulli #ProductDesign
+Anyone who wonders why I have gotten conservative about adding dependencies in JVM code have a look at this issue: https://t.co/xtrJSkaXDw
+RT @leonsp: Machine Learning with #Python and @h2oai at #Datapalooza Seattle https://t.co/wKOVbQdQ8r
+Data Science for Internet of Things with Ajit Jaokar https://t.co/QKHkeqyY10 #ODSC #MeetUP #London
+#Beer + #BigData= Cognitive &amp; social data help launch #algorithmic alcoholic beverages https://t.co/mGuifgExEE https://t.co/PxnZrjpvak
+Wonder what I did to earn the wrath of @rameshsrivats and get blocked. Hmm.
+Global mobile app store downloads will reach 284B by 2020. Learn more in our Forecast: https://t.co/qi5fysPE7K https://t.co/5E9kJk7lvR
+no shit -- we don't. we also reserve right to make our own decisions; u can also prove us wrong. @MoniqueWoodard https://t.co/RREU7yAfho
+50 Useful #MachineLearning &amp; Prediction APIs #KDN https://t.co/8B4PPVqJph
+ΓÇ£The land flourished because it was fed from so many sources...nourished by so many cultures and traditions and peoples.ΓÇ¥ ΓÇòLyndon B. Johnson
+RT @analyticbridge: The company that perfects Data Visualization in Virtual Reality will be the next Unicorn https://t.co/S1uFTMZFVz https:ΓÇª
+RT @analyticbridge: How Hotels use Big Data to Generate New Revenues https://t.co/DNLRcco5BB https://t.co/TlJwGl9n0v
+RT @analyticbridge: What skills should data scientists have in 2016? https://t.co/93EUHN3juc https://t.co/MSr803s0i8
+RT @analyticbridge: k-nearest neighbor algorithm using Python: https://t.co/TfbMZCDcTJ
+~~~~ 4 ~~~~
+RT @analyticbridge: 34 External Machine Learning Resources and Related Articles: https://t.co/rjQ6wsrqET
+RT @analyticbridge: Five Predictions for Big Data in 2016 https://t.co/3tf6dxPVkh https://t.co/YTEIkzeVMA
+.@MSFTResearch applies machine learning to help clinicians identify and track MS symptoms https://t.co/43AgtZbM5n https://t.co/W5r3szHSon
+Relatively easy to implement feature for SwiftPM up for grabs: https://t.co/e4284cNmQ2
+People Operating Model for #Enterprise-Scale #DataAnalytics https://t.co/wSelUuk1SF https://t.co/NX0GcY1FZY
+RT @mathowie: So romantic. So Canada. https://t.co/rvsXfjJLNC
+ItΓÇÖs time for procurement to become a team sport https://t.co/D95E4vYshF
+Learn how #PersonalizedAnalytics will make you and your business even smarter in 2016 and beyond. https://t.co/JP5KZ33q5j
+Software projects often fail as a result of weak developer-client relationships https://t.co/sQi6cMywb4 #ProductDesign
+Building a press list 101 https://t.co/6fYXQUocoC
+ΓÇ£The often cited 10x revenue multiple just simply isn't a rule anymore.ΓÇ¥ https://t.co/KjxYV4vgA5
+RT @guardiantech: Digital tech employees are offered 36% higher wage than UK average https://t.co/UcBxECNRid
+Looking for a Quantitative Developer at Finmason https://t.co/XVhJjbZ0BX #ODSC #datascijobs
+Why Are Students Attending #ODSC East? https://t.co/NuZrvmNH2v #datascience
+#BigData's Big Problem? Most Companies Don't Realize They're Already Using It https://t.co/aE3oMEVlGT https://t.co/myc4giqAuW
+RT @ArabiansMCL: The last time we played against the Strikers, Captain Viru scored a brilliant 134.
+
+Here's his stats in the #MCL2020 httpsΓÇª
+I personally would be much less snarky if facebook said they were doing this for money instead of all this social service bullshit
+RT @mlechchha: .@Retributions Do you not also think Andreessen paraphrasing months of sophisticated public debate as *fear of the foreign hΓÇª
+Don't worry about building an app that scales until you have the traffic that means you need to scale #ProductDesign #AppDevelopment
+While @pmarca has apologised ΓÇô accepted, thanks! ΓÇô I still see no hint of understanding at exactly what went wrong for Facebook in India.
+~~~~ 5 ~~~~
+RT @LisaMcIntire: maybe IΓÇÖm too deep in politics twitter, but I donΓÇÖt think enough is being made of India telling FB to take a long walk ofΓÇª
+RT @evgenymorozov: I guess if the current apology doesn't work, Andreessen can also try: "I'm not a colonialist - I love Indian food!" WillΓÇª
+RT @MoniqueWoodard: @nist @davemcclure Embarrassing b/c it's not as if these founders don't exist, but VC industry has failed to fund &amp; reaΓÇª
+RT @kanchankumar: It's never too late to say sorry. @pmarca apologises gracefully for his offensive tweet. https://t.co/mIr1sQI3aw
+RT @MoniqueWoodard: Black women startup founders raise avg $36K, while the average (mostly White, male-led) failed startup raises $1.3M
+
+htΓÇª
+RT @MoniqueWoodard: I encourage everyone to read the full #ProjectDiane report. It's great work from @DigUnDiv and @KathrynFinney https://tΓÇª
+RT @teonlamont: Great event w/ @odsc @thefreemanlab. demo OpenEXP, @NeuroTechX comm project. #openscience #opensource #neuroscience https:/ΓÇª
+Slipped one step: https://t.co/uqQv2norD8
+RT @_mekin: .@balajis @pmarca Capitalism is great only as long as markets are FAIR. License Raj was unfair. So is freebasics.
+RT @KurtWagner8: FB comment on @pmarca. "We strongly reject the sentiments expressed by Marc Andreessen last night regarding India." https:ΓÇª
+RT @timoreilly: "I already miss @barackobama" https://t.co/mYD1TNSWXf A really nice piece about civility and thoughtfulness  in American poΓÇª
+RT @waltmossberg: The rise of Donald Trump is a terrifying moment in American politics by @ezraklein https://t.co/I7zJvtaCQC via @voxdotcom
+RT @Freddie_V4: @ODSC https://t.co/TkHymCZZay
+RT @michaelgat: The latest edition of Indefinite Doubt is ready! https://t.co/vL34qXFZCB Stories via @BecomingDataSci @odsc
+Wow! Zo acquired, @pmarca comments, @Mukesh Bansal quits, Zenefits  took a beating - landmark day that was.
+RT @pngmarca: .@pmarca's latest #tweetstorm... https://t.co/UB649uasBq
+Keep up the great work! https://t.co/jdjEBMK1qV
+RT @VentureBeat: Twitter's real problem: Silicon Valley's misguided 'real time' fetish https://t.co/jZ5QCKkUEU by @obrien https://t.co/4xCdΓÇª
+The decline of StackOverflow: https://t.co/0jYRB7QOVb
+RT @ferrisjabr: Some modern birds hint at the fact that they are dinosaurs. Others fling it in your face https://t.co/nIbhunfwJe
+~~~~ 6 ~~~~
+RT @analyticbridge: A Tough Calculus Question https://t.co/1yTyWQGES8 https://t.co/DvhkJOO6Os
+Can #DeepLearning help find the perfect date? #KDN https://t.co/HjoL3VuAn2
+via @Data_Informed Kudu and the Ongoing Evolution of #Hadoop https://t.co/LvdenKa5cU
+Apache Spark Rises to Become Most Active Open Source Project in #BigData https://t.co/0l1U5dOdXv https://t.co/LFKtW8y8gr
+When building a product, quickly get into a position where you can experiment and learn what you customers want in a live environment.
+??? @nist you don't think 0.2% is "embarrassing"? (i sure as hell do) https://t.co/JmHNdTSp75
+RT @xamat: Answer on @Quora by Kevin Murphy to What is the most important unresolved problem in #machinelearning? https://t.co/64sXiTnbrh -
+Finally catching up on everything I missed the last few weeks.A voice sent by the Gods! Unbelievable! @ladygaga https://t.co/yirHaDo93O
+.@bigdata will lead a full day of Hardcore #DataScience at #Stratahadoop 2016 https://t.co/yEikneYGKu https://t.co/XBW9GMmFGB
+Announcing the Google Internet of Things (IoT) Technology Research Award Pilot. Learn more at  https://t.co/NhCItPoWrA
+RT @databasesystems: When questions are answered with 'it is too complicated to explain...' go figure what they mean
+RT @GoogleforWork: Earn up to ┬ú1,000 per referral when people you know start using Google Apps for Work https://t.co/aYULm6CK73 https://t.cΓÇª
+Welcome to GV. Grail is creating a new blood test for early cancer detection ΓÇö https://t.co/ah3zFmQuHD
+Forbes: How Big + Small Companies Can Innovate Together https://t.co/NHf3KMUaQk cc @500startups @ArnaudBonzom #CorporateVC @CVC
+Very sound advice from someone who knows what success and failure looks like https://t.co/s0JWS718JC
+WIRED: ItΓÇÖs Embarrassing How Few Black Female Founders Get Funded https://t.co/5O1O5HNVqN cc @500startups @MoniqueWoodard
+RT @KennistonY: 48 million Americans have significant hearing loss #DZLIPSYNC2016 @dzlipsync2016
+Just noticed the floating keyboard in OS X I had been using to learn Colemak was using 16 GB of RAM. Seems legit.
+#HackSummit Virtual Event, Feb 22-24 - free registration w. code KDNUGGETS #Hackathon https://t.co/0E2eG60vlf https://t.co/pbGET4yt6e
+~~~~ 7 ~~~~
+Product Owners are not your customers. Don't build something that doesn't fit your customers' needs https://t.co/JxGhfkr8Sv
+RT @MaternaJiri: do #datascience now is out! https://t.co/YMVicvmsVt Stories via @h2oai @kaggle @politicalmath
+RT @LorienPratt: #OpenCog, which Jack mentions, is great.  So is @H2Oai, #theano, and #gpu based algos eg from @NVidia.  All #oss! https://ΓÇª
+RT @swombat: Meanwhile in LondonΓÇª https://t.co/RfUSLsZagZ https://t.co/iknnukpHuH
+RT @mvellank: Understanding the big drop in tech valuations by putting things into historical context:  https://t.co/vwI4quKgvF https://t.cΓÇª
+Data Platform Engineer - Facebook https://t.co/peYq60zko8
+RT @ConorDougherty: Some gold-rush era history that has interesting parrallels to Facebook's Free Basics. @SarahNEmerson @derektmead https:ΓÇª
+The Challenge of Saving Lives With #BigData https://t.co/LUGjqjuuHh https://t.co/KSjsHLS0pC
+RT @rhyolight: A thorough history of the evolution of #HTM algorithms at @Numenta https://t.co/T8ElcWM7lb
+RT @Kasparov63: Today is a good day to avoid "This Day in History" links! https://t.co/E6RUt3NGlc
+RT @joybhattacharj: https://t.co/H4zI1ThkkW
+RT @ASHAJournals: .@WeSpeechies Telepractice in Speech-Language Pathology: The Evidence, the Challenges, and the Future https://t.co/lTcgRtΓÇª
+RT @ASHAJournals: .@WeSpeechies Telepractice: New and emerging technologies that promise change https://t.co/eTRAUNxgaL #wespeechies
+RT @jobfindlyla: School Psychologist Job Los Angeles Ca Telepractice Jobs in Los Angeles, CA #LosAngeles #CA #jobs #jobsearch https://t.co/ΓÇª
+RT @HearingFirst: Every word counts! Especially for children w/ hearing loss. Learn why reading aloud matters https://t.co/m3DfE3oHq1 httpsΓÇª
+This has been validated by NASA and UNESCO https://t.co/oZ2zqlwdLY
+RT @better_hearing: ThereΓÇÖs even more compelling research linking hearing loss and brain function:
+ 
+https://t.co/ajYWgwW4oP
+ 
+via @epheralΓÇª
+ΓÇ£ΓÇÿI CouldnΓÇÖt Decide If We Should Live or DieΓÇÖΓÇ¥ by @jenkoons https://t.co/XT9C6zuYkK
+Announcing @AppAnnie's Forecast! Get valuable insights on the future of the app economy. https://t.co/qi5fysPE7K https://t.co/StbGrzVvI2
+KDnuggets 16:n05: #DeepLearning is not Enough; #ApacheSpark: RDD, DataFrame or Dataset? https://t.co/i1xKRCfxJO https://t.co/5M3aPC5Pam
+~~~~ 8 ~~~~
+KDnuggets 16:n05: #DeepLearning is not Enough; #ApacheSpark: RDD, DataFrame or Dataset? https://t.co/i1xKRCfxJO https://t.co/5M3aPC5Pam
+hilarious and a president with a sense of humour. Not sure his successor will have one! https://t.co/0cy9HUUCxo
+RT @nelson_bonini: FLIO : The Global Airport App https://t.co/VqENyybcbj via @nextbigwhat
+Have an idea about #EVerify? Join the E-Verify Listens community and tell us your thoughts.  https://t.co/BF5lTvryv3
+RT @audrathomas96: A year ago today I found out my niece was deaf, I cried for hours. Today she's able to hear thanks to cochlear implants,ΓÇª
+RT @medel: Laura's sudden #hearingloss meant she couldn't hear in her right ear. At first she had doubts on a #cochlearimplant. https://t.cΓÇª
+Making a scala repo for real work using @bazelbuild. LetΓÇÖs see how this goes. /cc @monorepi
+RT @LeuvenU: "We're working towards fully implantable cochlear implants and wearables to help the visually impaired" - Chandrakasan #PatrooΓÇª
+TONIGHT: Text analysis with R, Python and Spark - #Boston #Hackathon #ODSC https://t.co/btXv68A3mO
+It's hard to predict the future, but I'm certain future generations will condemn those who persecuted Aaron Swartz.
+RT @analyticbridge: 2015 Survey of Data Scientists Reveals Strategic Insights https://t.co/mJXSqQ1bUr
+RT @analyticbridge: Developer Vs Coder https://t.co/cDyTOZ4cpQ
+RT @analyticbridge: 50 Years of Data Science
+https://t.co/vH7K9A1Kcx https://t.co/H52yvWiINR
+Tear down those walls! Learn how data democratization will reshape #BigData #analytics in 2016 and beyond. https://t.co/FOJRW0mpTm
+You can't win if you don't apply (by tomorrow). Check out the list of judges for Startup Showcase #StrataHadoop 2016 https://t.co/cK2osKG8W6
+Wikibon #BigData Vendor Revenue and Market Forecast, 2020 #KDN https://t.co/DcuPqKv3wn
+#ODSC WEST 2015 | Jason Moss - "Going Where the Unicorns Roam Entering the Field" https://t.co/dJolHdV6s9
+Confirmed : Oyo Acquires Zo Rooms https://t.co/H1SuQ0LuWx https://t.co/qDm52Wtc1Y
+~~~~ 9 ~~~~
+How one researcher has made nearly every scientific paper ever published available for free: https://t.co/BbEYHcehqH (via @sentientist)
+Six degrees of separation or just 3.5? @duncanjwatts provides perspective on the "small-world problem" https://t.co/IlfXRuevlV
+VentureBeat: Early Stage Companies Get Ready 2b Punched in the Face @jBurwick @SandHillEast https://t.co/r2jYWZ1Pay https://t.co/yZcoorW27X
+Congrats to our friend Marios Michailidis (aka KazAnova) for becoming our new #1 Kaggler! https://t.co/3QYH9Nrfni https://t.co/eljXxNGVFB
+RT @harishv: Aka "Hard to convince someone when their salary depends on NOT getting convinced"
+#FreeBasics
+RT @sumants: Abeyaar. That doesn't mean colonial rule was better. This #NetNeutrality debate is bringing out the worst in people. https://tΓÇª
+Facebook Free Basics: Not Free At all https://t.co/D89jA9VLpl by @Om Malik
+RT @sajith: "We wanted to widen our surveillance net, that is why we ran a deceptive Γé╣ 30bn media campaign about poor people"
+
+https://t.coΓÇª
+I hate being a nag here, but the colonialists were also capitalists. That's how Marxism was born. https://t.co/5OuD4g1gOn
+RT @firstpost: Watch @SunnyLeone with @annavetticad , #objective and #unbiased. Coming Soon. #Firstpostexclusive #SunnyLeone https://t.co/mΓÇª
+See the worldΓÇÖs fastest-growing app markets, plus more. Join our webinar on 2/17, 10AM PST: https://t.co/htQyButyz5 https://t.co/UmS3ub2p2Z
+A shoot I won't ever forget.The shannanagins that night were epic!!! @yofrankay @devang23 @ansh_rulez @hitendra1480  https://t.co/YJq8ut1BIx
+#Tutorial: #CreditCard #Fraud Detection with #SQLServer 2016 R Services #rstats https://t.co/rOjXZyQPj9 https://t.co/21IiRp3gia
+Pretty cool: @Skype &amp; @PaulMcCartney teaming up to make great music with the first Audio Mojis! https://t.co/CCp5lwM1N0
+RT @bfeld Founders Use Your Down Round To Clean Up Your Cap Table  https://t.co/cVxTTElOYG cc @500Startups
+cc @500Startups  https://t.co/fl32cGWfuJ
+# https://t.co/dFiT1bdIug
+ΓÇ£ItΓÇÖs been well documented that online marketing is not only changing; the change is accelerating.ΓÇ¥ https://t.co/41yPfElfXz
+Sachin, Binny &amp; I've been discussing this change for the past 2-3 months: Mukesh on @Flipkart exit https://t.co/UF5JlBJEtw 
+@radhikapnair5
+cc @500Startups  https://t.co/eiqpF7Hf9e
+~~~~ 10 ~~~~
+Surely, license raj is when you have case-by-case discretionary authority, not uniform rules based on public input. https://t.co/jLfxEJVKZx
+RT @bdnarayankar: #BREAKING
+
+#MukeshBansal Flips Kart, To tart His Own Biz ... Keen To Invest In Technology Space - Says @YourStoryCo 
+
+#FlΓÇª
+RT @jaivardhan88: .@ZORooms + @ZostelHostel = 7 % of @oyorooms: @YourStoryCo Softbank confirms OYOΓÇÖs acquisition of ZO Rooms https://t.co/CΓÇª
+Is it Hanamanthappa or Hanumanthappa? Former is used in army press releases and makes sense as a Kannadiga pronounciation as well
+RT @mayank_io: Nothing like some startup fun! Fantastic initiative @YourStoryCo! https://t.co/ERWAMk03CK
+RT @DolaSamanta: Sparkling story of BlueStone ΓÇô from 200 to 5,000 designs across 14 categories https://t.co/gFIzrzGflR via @YourStoryCo
+RT @PlayoApp: 5 Famous Sportspersons Who Went Entrepreneurial - https://t.co/c1yVifqVXb 
+Register for @YourStoryCo #SSL here - https://t.coΓÇª
+RT @anildash: @dane I agree. My bigger objection is to the colonialist economic model; I'm fine with free closed services being given away.
+RT @jamalsanmustafa: αñÅαñò αñòαñ╛αñ░αÑïαñ¼αñ╛αñ░αÑÇ αñòαñ╛ αñëαñ░αÑìαñªαÑé αñòαÑï αñ▓αÑçαñòαñ░ αñàαñªαÑìαñ¡αÑüαññ αñ¬αÑìαñ░αÑçαñ«, αñ¡αñ╛αñ╖αñ╛ αñòαÑÇ αñ¼αÑçαñ╣αññαñ░αÑÇ αñòαÑç αñ▓αñ┐αñÅ αñ¼αñ¿αñ╛αñ»αñ╛ αñ░αÑçαñûαñ╝αÑìαññαñ╛ αñ½αñ╛αñëαñéαñíαÑçαñ╢αñ¿  https://t.co/bFKRTIkfEr via @ΓÇª
+JJ Allaire, Founder and CEO at @RStudio will be just one of many speakers at #ODSC East https://t.co/6wmEbHhyVt https://t.co/JfDb8xW9r0
+Check out all the #ODSC Interviews at our YouTube Playlist https://t.co/oGdweYe92G
+We launched a new virtual assistant to help answer your questions: https://t.co/qbPuEVzNG6
+Coming in December, more about this at SXSW. Doing a ton of travel in research for the book. https://t.co/woJhdVqi3O
+New data post: @esimoudis' retrospective of data analytics over the last 25 years https://t.co/rbu2WtaI6k #bigdata
+Small Data requires Specialized #DeepLearning and Yann LeCun response #KDN https://t.co/6bvLLu3CC1
+I wonder if post-European societies realise India isn't a branch of European society and a Euro lens will mostly give you the wrong insight.
+Doctors, patients &amp; tech experts work together to track MS symptoms with machine learning https://t.co/f7Knj5hnPW https://t.co/i57MJq4yWA
+Automated Linear Regression for Really, Really Big Data https://t.co/jxSfe7aXAj https://t.co/Oe3xvj54vq
+Artificial intelligence &amp; machine learning make humans more effective. #BigDataTrends for 2016 https://t.co/C32a1eMRPt
+~~~~ 11 ~~~~
+Seattle's snowiest #AshWednesday occurred on Feb. 14, 1923. 11" of snow fell downtown.
+Today we learnt @a16z bought FB's kool-aid wholesale and is rationalising defeat by deeming India's position irrational. Not so smart, then?
+Why #entrepreneurs should focus on #value rather than #valuation
+https://t.co/3xn3vPtJR9 https://t.co/VIPw0rmB87
+RT @CastleLagerSA: Beating breast cancer is about early detection. Encourage your ladies to get tested today! #BraBrigade
+.@pankajontech Just offering pragmatic advice: if @a16z partners still endorse the very stance that blew up on FB, that's a huge red flag.
+Mukesh Bansal And Chief Business Officer, Ankit Nagori Quit Flipkart https://t.co/by2NPAtTv9 https://t.co/pUBAB5tvh6
+Oh no lol...I was kidding. ≡ƒÿ│ I hate burpees!!! Blah  https://t.co/0SDTd7r4FT
+Let us #shutdownjnu and use the campus as a #yog gurukul #hangyo
+Do you want to work for USCIS? You can sign up to get emails about our job postings: https://t.co/69E3RQYexT https://t.co/j0f1c2irbG
+RT @claychristensen: The worst place to develop a new business model is from within your existing business model.
+Haha never been so excited!!  https://t.co/CpmVGYMCMa
+RT @ShoaibDaniyal: #ShutDownJNU, let Oakists set up their own history departments and just be be done with India's Ziaisation.
+Thanks @prashantsixpack I had to increase my weights at @BarrysBootcamp today because of your training!! Woot woot stronger!
+Vigorous dismissal of #FreeBasics by #TRAI India has led to desperate moves;among them @pmarca's unfortunate comment. We expected better
+5 Unusual Ways to Find your First or Next #DataScience Job @DataScienceCtrl https://t.co/ZxxH1tJyM2
+ΓÇ£IΓÇÖm Not Worried About Screen TimeΓÇ¥ by @nicolebdavis https://t.co/1VpdobuCeY
+Sentiment Analysis 101 #KDN https://t.co/eg4j8RgixF
+Get #ODSC East Early Bird Tix ($219!!): 3 days, 7 conferences, all under 1 roof 4 a MEGA weekend of #datascience https://t.co/xdFxx875oP
+~~~~ 12 ~~~~
+RT @mariagorettiz: And the day you watch the trailer of a friend you did not meet for really long, Bec he was busy working, #happyday httpsΓÇª
+RT @ycombinator: IK12 + YC https://t.co/k2Wjiw4FHs
+RT @MaxCRoser: Productivity is the driver of wage growth:  Output per hour and Real wages since 1860.
+
+By David Hendry https://t.co/NCUG31DΓÇª
+Top roles at @Flipkart fall vacant,Mukesh Bansal &amp; Ankit Nagori to quit &amp; turn entrepreneurs
+https://t.co/UF5JlBJEtw https://t.co/d5gauxvWDI
+*led aargh
+A part of my anxiety when I worked as a reporter was the fear that I would miss details. Which lead to a LOT of transcribing = mortal pain.
+In boost to self-driving cars, U.S. tells Google computers can qualify as drivers https://t.co/EKpRVYfdRH
