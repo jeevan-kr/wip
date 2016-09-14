@@ -1,0 +1,16 @@
+{% load staticfiles %}
+<html>
+	<head>
+		<img src="{%  static 'test.jpg' %}" alt="Smiley face" />
+		<img src="{%  static 'dstat/test.jpg' %}" alt="Smiley face" />
+
+	</head>
+	<body>
+		<p/>Static URL: {{ settings.STATIC_URL}}
+		<p/>Static ROOT: {{ settings.STATIC_ROOT}}
+		<p/>Static FILES_DIR: {{settings.STATICFILES_DIR}}
+		{% block content %}
+
+		{% endblock %}
+	</body>
+</html>
